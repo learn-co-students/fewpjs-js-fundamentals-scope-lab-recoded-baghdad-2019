@@ -1,4 +1,4 @@
-# JavaScript Fundamentals: Scope Lab
+w# JavaScript Fundamentals: Scope Lab
 
 ## Learning Goals
 
